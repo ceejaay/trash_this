@@ -1,0 +1,30 @@
+
+1. Greatest Weakness
+  
+  I'm disorganized. I find it challenging to stay oragnized especially in times of high stress.
+  I combat this by heavily relying on phone reminders, checklists and trello boards.
+  I currently manage 7 students working on Computer science projects. I have to do 1:1 interviews every day on how they are advancing in the daily project. This could  be overwhelming, but I use autmation to keep organized. Right now I use calendly to let them set up their 1:1 appointments. I can easily see that on my calendar, and I keep them and their paperwork straight. Even when things are stressful.
+
+
+  2. My greatest strength.
+    My greatest strength is that I am curious. This leads to two outcomes.
+      1. I'm eager to learn new things. I'm excited about new projects and problems. When my project manager suggested I try to build a  new project in React Native, I was curious about the new technology. He told me to use Expo, My curiosity got me looking at the documentation. I started experimenting then I started learning React Native.
+      2. That cuiosity leads to more and faster learning. I've done this process  a lot. Where my curiosity lead me to learn new thing.
+      most reclently I worked on a project where I had to build access to the Watson API..... Talk about watson.
+      
+
+
+3. Why do you want to work here?
+  I want to build tools that help people improve their business and personal lives. On one of your promotional videos I saw that the client said not only were they doing better business, they were hiring experienced agents more often, because the software was powerful. I want to work on things that have that kind of positive effect. As a team lead I worked on a useful project. My team and I at Lambda School  recently built a web app that provides the user with useful information related to wildfires. The app allows them to log on, input their address, and see wildfires in their area. It also allows them to set alerts, so they know if a wildfire appears near their home.
+These are the kind of projects I want to work on.
+In real-estate, orginization is key, and I can see Inside Real Estate is trying to solve the problems related to that.
+
+
+
+##########################################
+Notes:
+
+My questions:
+
+How does the IDX fit into your work?
+
